@@ -1,0 +1,8 @@
+		Navegacao do tabuleiro atraves das setas no teclado
+	   Enter para selecionar uma celula onde pode inserir
+    um valor de 1 a 9
+	   Caso queira alterar um valor que tenha colocado 
+    anteriormente selecione a celula e prima esc
+
+
+		Divirta-se a jogar Sudoku!
